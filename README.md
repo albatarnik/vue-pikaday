@@ -145,7 +145,7 @@ These are a list of configuration that you can pass, source: [Pikaday](https://g
 [npm-image]: https://img.shields.io/npm/v/light-vue-pikaday.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/light-vue-pikaday
 [license-image]: https://img.shields.io/:license-mit-blue.svg?style=flat-square
-[license-url]: LICENSE.md
+[license-url]: LICENSE
 [screenshot]: https://raw.github.com/Pikaday/Pikaday/master/examples/screenshot.png "Screenshot"
 [downloads-image]: http://img.shields.io/npm/dm/light-vue-pikaday.svg?style=flat-square
 [moment]: http://momentjs.com/
