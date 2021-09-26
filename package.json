@@ -1,6 +1,6 @@
 {
   "name": "light-vue-pikaday",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/pikaday-picker.ssr.js",
   "browser": "dist/pikaday-picker.esm.js",
